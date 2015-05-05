@@ -1,0 +1,108 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.BLL", "SIDMS.BLL\SIDMS.BLL.csproj", "{BEED4F57-FBF1-457E-A570-29E7C929A8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.Common", "SIDMS.Common\SIDMS.Common.csproj", "{2BEED896-27F9-4F26-A509-F0282C74DCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.DALFactory", "SIDMS.DALFactory\SIDMS.DALFactory.csproj", "{1933497D-11F1-40A9-8865-9788B83F7597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.DBUtility", "SIDMS.DBUtility\SIDMS.DBUtility.csproj", "{E6F2D99F-2DBA-42C4-A4D7-BD9C71442775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.IDAL", "SIDMS.IDAL\SIDMS.IDAL.csproj", "{7278CD1A-F4BB-4AD9-B6E7-624C854590D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.Model", "SIDMS.Model\SIDMS.Model.csproj", "{1B50EEF7-27BA-4477-8156-4451463838C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.OracleServerDAL", "SIDMS.OracleServerDAL\SIDMS.OracleServerDAL.csproj", "{4FD9AE55-3EE2-4298-9640-1564891B5036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.SQLServerDAL", "SIDMS.SQLServerDAL\SIDMS.SQLServerDAL.csproj", "{31D2A596-D32E-493C-B478-40B27749537C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.Service", "SIDMS.Service\SIDMS.Service.csproj", "{D1D40B7A-1112-4274-B61C-9A58A728A127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIDMS.Reporting", "SIDMS.Reporting\SIDMS.Reporting.csproj", "{C07D3BFA-AD4A-4F54-B967-CEDC0F95ADA2}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 11
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SIDMS.BLL\\SIDMS.BLL.csproj
+		SccProjectName1 = \u0022$/SIDMS/Source/SIDMS/SIDMS.BLL\u0022,\u0020JTBAAAAA
+		SccLocalPath1 = SIDMS.BLL
+		SccProjectUniqueName2 = SIDMS.Common\\SIDMS.Common.csproj
+		SccProjectName2 = \u0022$/SIDMS/Source/SIDMS/SIDMS.Common\u0022,\u0020KVBAAAAA
+		SccLocalPath2 = SIDMS.Common
+		SccProjectUniqueName3 = SIDMS.DALFactory\\SIDMS.DALFactory.csproj
+		SccProjectName3 = \u0022$/SIDMS/Source/SIDMS/SIDMS.DALFactory\u0022,\u0020GWBAAAAA
+		SccLocalPath3 = SIDMS.DALFactory
+		SccProjectUniqueName4 = SIDMS.DBUtility\\SIDMS.DBUtility.csproj
+		SccProjectName4 = \u0022$/SIDMS/Source/SIDMS/SIDMS.DBUtility\u0022,\u0020EXBAAAAA
+		SccLocalPath4 = SIDMS.DBUtility
+		SccProjectUniqueName5 = SIDMS.IDAL\\SIDMS.IDAL.csproj
+		SccProjectName5 = \u0022$/SIDMS/Source/SIDMS/SIDMS.IDAL\u0022,\u0020AYBAAAAA
+		SccLocalPath5 = SIDMS.IDAL
+		SccProjectUniqueName6 = SIDMS.Model\\SIDMS.Model.csproj
+		SccProjectName6 = \u0022$/SIDMS/Source/SIDMS/SIDMS.Model\u0022,\u0020UACAAAAA
+		SccLocalPath6 = SIDMS.Model
+		SccProjectUniqueName7 = SIDMS.OracleServerDAL\\SIDMS.OracleServerDAL.csproj
+		SccProjectName7 = \u0022$/SIDMS/Source/SIDMS/SIDMS.OracleServerDAL\u0022,\u0020LCCAAAAA
+		SccLocalPath7 = SIDMS.OracleServerDAL
+		SccProjectUniqueName8 = SIDMS.SQLServerDAL\\SIDMS.SQLServerDAL.csproj
+		SccProjectName8 = \u0022$/SIDMS/Source/SIDMS/SIDMS.SQLServerDAL\u0022,\u0020AGCAAAAA
+		SccLocalPath8 = SIDMS.SQLServerDAL
+		SccProjectUniqueName9 = SIDMS.Service\\SIDMS.Service.csproj
+		SccProjectName9 = \u0022$/SIDMS/Source/SIDMS/SIDMS.Service\u0022,\u0020AECAAAAA
+		SccLocalPath9 = SIDMS.Service
+		SccProjectUniqueName10 = SIDMS.Reporting\\SIDMS.Reporting.csproj
+		SccProjectName10 = \u0022$/SIDMS/Source/SIDMS/SIDMS.Reporting\u0022,\u0020KDCAAAAA
+		SccLocalPath10 = SIDMS.Reporting
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEED4F57-FBF1-457E-A570-29E7C929A8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEED4F57-FBF1-457E-A570-29E7C929A8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEED4F57-FBF1-457E-A570-29E7C929A8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEED4F57-FBF1-457E-A570-29E7C929A8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEED896-27F9-4F26-A509-F0282C74DCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEED896-27F9-4F26-A509-F0282C74DCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEED896-27F9-4F26-A509-F0282C74DCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEED896-27F9-4F26-A509-F0282C74DCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1933497D-11F1-40A9-8865-9788B83F7597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1933497D-11F1-40A9-8865-9788B83F7597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1933497D-11F1-40A9-8865-9788B83F7597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1933497D-11F1-40A9-8865-9788B83F7597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F2D99F-2DBA-42C4-A4D7-BD9C71442775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F2D99F-2DBA-42C4-A4D7-BD9C71442775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F2D99F-2DBA-42C4-A4D7-BD9C71442775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F2D99F-2DBA-42C4-A4D7-BD9C71442775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7278CD1A-F4BB-4AD9-B6E7-624C854590D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7278CD1A-F4BB-4AD9-B6E7-624C854590D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7278CD1A-F4BB-4AD9-B6E7-624C854590D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7278CD1A-F4BB-4AD9-B6E7-624C854590D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B50EEF7-27BA-4477-8156-4451463838C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B50EEF7-27BA-4477-8156-4451463838C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B50EEF7-27BA-4477-8156-4451463838C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B50EEF7-27BA-4477-8156-4451463838C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD9AE55-3EE2-4298-9640-1564891B5036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD9AE55-3EE2-4298-9640-1564891B5036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD9AE55-3EE2-4298-9640-1564891B5036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD9AE55-3EE2-4298-9640-1564891B5036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D2A596-D32E-493C-B478-40B27749537C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D2A596-D32E-493C-B478-40B27749537C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D2A596-D32E-493C-B478-40B27749537C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D2A596-D32E-493C-B478-40B27749537C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D40B7A-1112-4274-B61C-9A58A728A127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D40B7A-1112-4274-B61C-9A58A728A127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D40B7A-1112-4274-B61C-9A58A728A127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D40B7A-1112-4274-B61C-9A58A728A127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07D3BFA-AD4A-4F54-B967-CEDC0F95ADA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07D3BFA-AD4A-4F54-B967-CEDC0F95ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07D3BFA-AD4A-4F54-B967-CEDC0F95ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07D3BFA-AD4A-4F54-B967-CEDC0F95ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
